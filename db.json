@@ -1,0 +1,163 @@
+{
+  "posts": [],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Phone1",
+      "product_price": 1999,
+      "product_description": "Description for Phone1.",
+      "availability": true
+    },
+    {
+      "id": 5,
+      "product_name": "Camera1",
+      "product_price": 5999,
+      "product_description": "Description for Camera1.",
+      "availability": true
+    },
+    {
+      "id": 6,
+      "product_name": "Tablet1",
+      "product_price": 6999,
+      "product_description": "Description for Tablet1.",
+      "availability": false
+    },
+    {
+      "id": 7,
+      "product_name": "Smartwatch1",
+      "product_price": 7999,
+      "product_description": "Description for Smartwatch1.",
+      "availability": true
+    },
+    {
+      "id": 8,
+      "product_name": "Gaming Console1",
+      "product_price": 8999,
+      "product_description": "Description for Gaming Console1.",
+      "availability": false
+    },
+    {
+      "id": 9,
+      "product_name": "Router1",
+      "product_price": 9999,
+      "product_description": "Description for Router1.",
+      "availability": true
+    },
+    {
+      "id": 10,
+      "product_name": "Speaker1",
+      "product_price": 10999,
+      "product_description": "Description for Speaker1.",
+      "availability": true
+    },
+    {
+      "id": 11,
+      "product_name": "Phone2",
+      "product_price": 11999,
+      "product_description": "Description for Phone2.",
+      "availability": false
+    },
+    {
+      "id": 12,
+      "product_name": "TV2",
+      "product_price": 12999,
+      "product_description": "Description for TV2.",
+      "availability": true
+    },
+    {
+      "id": 13,
+      "product_name": "Laptop2",
+      "product_price": 13999,
+      "product_description": "Description for Laptop2.",
+      "availability": false
+    },
+    {
+      "id": 14,
+      "product_name": "Headphones2",
+      "product_price": 14999,
+      "product_description": "Description for Headphones2.",
+      "availability": true
+    },
+    {
+      "id": 15,
+      "product_name": "Camera2",
+      "product_price": 15999,
+      "product_description": "Description for Camera2.",
+      "availability": false
+    },
+    {
+      "id": 16,
+      "product_name": "Tablet2",
+      "product_price": 16999,
+      "product_description": "Description for Tablet2.",
+      "availability": true
+    },
+    {
+      "id": 17,
+      "product_name": "Smartwatch2",
+      "product_price": 17999,
+      "product_description": "Description for Smartwatch2.",
+      "availability": false
+    },
+    {
+      "id": 18,
+      "product_name": "Gaming Console2",
+      "product_price": 18999,
+      "product_description": "Description for Gaming Console2.",
+      "availability": true
+    },
+    {
+      "id": 19,
+      "product_name": "Router2",
+      "product_price": 19999,
+      "product_description": "Description for Router2.",
+      "availability": false
+    },
+    {
+      "id": 20,
+      "product_name": "Speaker2",
+      "product_price": 20999,
+      "product_description": "Description for Speaker2.",
+      "availability": true
+    },
+    {
+      "id": 21,
+      "product_name": "Phone3",
+      "product_price": 21999,
+      "product_description": "Description for Phone3.",
+      "availability": false
+    },
+    {
+      "id": 22,
+      "product_name": "TV3",
+      "product_price": 22999,
+      "product_description": "Description for TV3.",
+      "availability": true
+    },
+    {
+      "id": 23,
+      "product_name": "Laptop3",
+      "product_price": 23999,
+      "product_description": "Description for Laptop3.",
+      "availability": false
+    },
+    {
+      "id": 24,
+      "product_name": "Headphones3",
+      "product_price": 24999,
+      "product_description": "Description for Headphones3.",
+      "availability": true
+    },
+    {
+      "id": 25,
+      "product_name": "Camera3",
+      "product_price": 25999,
+      "product_description": "Description for Camera3.",
+      "availability": false
+    }
+  ]
+}
